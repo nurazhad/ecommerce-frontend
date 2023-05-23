@@ -75,7 +75,7 @@ export default function Footer() {
         </div>
         <div className="row">
           <div className="col text-center copyrights">
-            Copyright 2022 • Binar Academy • Shoesnarian
+            Copyright 2023 • Shoesnarian
           </div>
         </div>
       </div>
